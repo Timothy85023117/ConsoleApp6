@@ -11,6 +11,7 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             Console.WriteLine("in");
+            Console.WriteLine("Hi");
             Console.ReadLine();
         }
     }
